@@ -1,7 +1,6 @@
 #Docker Files for Various Projects
 
-The goal of this repository is to provide docker images that host a complete environement
-for development related projects and also to promote and quickly show the capability of Butor framework.
+The goal of this repository is to provide docker images in a sort of controlled environment.
 
 ---
 
